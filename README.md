@@ -1,6 +1,6 @@
 # Bus Tracking Android App 
 
-The college management app is designed for students, bus in-charges, and bus drivers, providing efficient college management and easy access to live bus locations. It is built using Android Studio with Java and XML for coding, Firebase for the database, and Google Cloud Platform for the Google Maps API.
+The college bus management app is designed for students, bus in-charges, and bus drivers, providing efficient college management and easy access to live bus locations. It is built using Android Studio with Java and XML for coding, Firebase for the database, and Google Cloud Platform for the Google Maps API.
 
 ## Key Features
 
