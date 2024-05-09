@@ -43,7 +43,7 @@ The college management app is designed for students, bus in-charges, and bus dri
 
 These features provide a streamlined system for college management, ensuring that students, in-charges, and drivers have the tools they need to manage and access bus-related information efficiently.
 
-
+## Images of the App
 ![image](https://github.com/skishore04/Bus-Tracking-Android-App/assets/108078148/f2e95c82-4e77-4cf4-8661-8d07d8c19306)
 ![image](https://github.com/skishore04/Bus-Tracking-Android-App/assets/108078148/917ae694-ffb4-4116-a0b4-53ce08730554)
 ![image](https://github.com/skishore04/Bus-Tracking-Android-App/assets/108078148/17ef5048-b357-4546-b04e-4fc59cd91f44)
